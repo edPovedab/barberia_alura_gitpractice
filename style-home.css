@@ -1,0 +1,76 @@
+p{
+    text-align: center;
+    background-color: #cccccc;
+}
+.titulo-principal{
+    padding-left: 30px;
+}
+
+em strong{
+    color: #050;
+}
+#banner{
+    width: 100%;
+}
+.principal{
+    background-color: #cccccc;
+    padding: 20px;
+}
+.titulo-centralizado{
+    text-align: left;
+    padding: 20px;
+}
+.titulo-centralizado{
+    text-align: center;
+}
+
+#mision{
+    font-size: 20px;
+}
+.diferenciales{
+    background: #ffffff;
+    padding: 30px;
+}
+.items{
+    font-style: italic;
+    
+}
+.items a{
+    font-size: 30px;
+    text-decoration: none;
+    font-style: italic;
+    color: rgb(18, 15, 205);
+}
+
+ul,a{
+    display: inline-block;
+    vertical-align: top;
+    width: 20%;
+    margin-right:15% ;
+    padding: 15px;
+    margin: 10px;
+}
+.boton, a{
+    width: 50%;
+    padding: 15px 0;
+    font-size: 18px;
+    font-weight: bold;
+    color: white;
+    background: rgb(20, 176, 203);
+    border: none;
+    border-radius: 15px;
+    transition: 1s all;
+    cursor: pointer;
+    margin-top: 20px;
+    text-decoration: none;
+    
+}
+.boton:hover{
+    background: rgb(87, 129, 138);
+    transform: scale(1.2);
+}
+
+.imagendiferenciales{
+
+    width: 50%;
+}
